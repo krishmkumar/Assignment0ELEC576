@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b1bcb94-f0d6-4af2-8db9-52c251460739" name="Changes" comment="Assignment0.ipynb added">
-      <change afterPath="$PROJECT_DIR$/Assignment1/n_layer_neural_network.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/COMP576.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/COMP576.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/three_layer_neural_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/three_layer_neural_network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment0/Assignment0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment0/Assignment0.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +43,12 @@
     &quot;assignee&quot;: &quot;krishmkumar&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/krishmkumar/COMP576ELEC576.git&quot;,
-    &quot;accountId&quot;: &quot;4d10ecba-dd42-4f20-8200-a24825ed6faf&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/krishmkumar/Assignment0ELEC576.git",
+    "accountId": "4d10ecba-dd42-4f20-8200-a24825ed6faf"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assignment1/n_layer_neural_network.py" root0="SKIP_INSPECTION" />
   </component>
@@ -68,7 +68,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/krishkumar/COMP576ELEC576",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -152,6 +152,7 @@
       <workItem from="1757562592672" duration="4362000" />
       <workItem from="1757719696163" duration="7615000" />
       <workItem from="1757995334123" duration="2256000" />
+      <workItem from="1757997789132" duration="1325000" />
     </task>
     <task id="LOCAL-00001" summary="Assignment0.ipynb added">
       <option name="closed" value="true" />
@@ -168,9 +169,19 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="d5e59ce9-b6c3-4f23-923e-c4797e824472" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="d5e59ce9-b6c3-4f23-923e-c4797e824472">
           <value>
             <State />
           </value>
@@ -189,6 +200,11 @@
           <url>file://$PROJECT_DIR$/Assignment1/n_layer_neural_network.py</url>
           <line>191</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Assignment0/Assignment0.ipynb</url>
+          <line>7</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

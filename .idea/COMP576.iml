@@ -6,6 +6,5 @@
     </content>
     <orderEntry type="jdk" jdkName="/opt/anaconda3" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="PyCharmMiscProject" />
   </component>
 </module>
